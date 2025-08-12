@@ -1,1 +1,1 @@
-
+Delete research.md
