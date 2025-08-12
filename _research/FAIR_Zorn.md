@@ -2,8 +2,6 @@
 title: "The Supreme Court as a National Policy Enabler"
 collection: research
 permalink: /research/HIPS_qfrs
-date: 2025-09-12
-venue: ""
 author_profile: true
 ---
 **Abstract**: Nearly seventy years after Dahl’s landmark (1957) paper, recent events have brought into
@@ -16,4 +14,5 @@ tion in the justices’ general tendency to support executive claims, and signif
 the extent to which that tendency varies across same-party vs. opposite-party executives. Con-
 sistent with other recent work in this vein, those variations also exhibit substantial systematic
 changes over time.
+
 [Link](https://www.dropbox.com/scl/fi/i9zn0erbhhwrk1yo9pvhu/Herlihy-Zorn-FAIR-2025.pdf?rlkey=rvg3txxdgl3wr1w5marknjq8z&st=ceuqjv24&dl=0)
