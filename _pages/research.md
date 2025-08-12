@@ -1,13 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-{% for post in site.research reversed %}
-<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-{{ post.content | markdownify }}
+{% assign items = site.research | sort: "date" | reverse %}
+{% for post in items %}
+<h2>{{ post.title }}</h2>
+{{ post.content }}
 <hr>
 {% endfor %}
-
