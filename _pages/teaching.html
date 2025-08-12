@@ -1,12 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign items = site.teaching | sort: "date" | reverse %}
+{% for post in items %}
+<h2>{{ post.title }}</h2>
+{{ post.content }}
+<hr>
 {% endfor %}
