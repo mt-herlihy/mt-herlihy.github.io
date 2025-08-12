@@ -1,7 +1,7 @@
 ---
 title: "The Supreme Court as a National Policy Enabler"
 collection: research
-permalink: /research/HIPS_qfrs
+permalink: /research/FAIR_Zorn.md
 author_profile: true
 ---
 **Abstract**: Nearly seventy years after Dahl’s landmark (1957) paper, recent events have brought into
