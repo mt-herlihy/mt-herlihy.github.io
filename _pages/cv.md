@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 You can download my full CV here:  
-[**Curriculum Vitae (PDF)**](https://www.dropbox.com/scl/fi/gwyr3wfshuoythz3g3sk8/Herlihy_CV.pdf?rlkey=q58blnhp7kjyn4hox7kesp1vb&st=takmmzc2&dl=0)
+[**CV (PDF)**](https://www.dropbox.com/scl/fi/a0zic26w6rez6dd7obzhz/Herlihy_CV_8_13_25.pdf?rlkey=ifvfc1zx2pcvwayv8fj82toxj&st=h28p0qn0&dl=0)
 
