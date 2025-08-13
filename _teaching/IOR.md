@@ -1,3 +1,7 @@
+Teaching offers me a way to make a positive impact on people’s lives in a more immediate manner than research typically offers.  It is central to how I identify as an academic, and I am eager to improve further as I grow in the profession. I believe that teaching is both a responsibility and commitment to students and their development—one that extends beyond the classroom and into mentorship, advising, and support.  
+
+Over the last several years, I have had the opportunity to teach students and develop course material across different settings, including both in person and online learning. I am prepared to teach a range of methods and substantive courses.  At the undergraduate level, I am available to teach courses in American Politics, Judicial Politics, Constitutional Law, Civil Rights and Liberties, Legislative Politics, the American Presidency, and State and Local Politics.  At the graduate level, I am prepared to teach seminars on American Political Institutions, Judicial Politics, and State and Local Politics.  I am also able to teach research design and methods to undergraduate students as well as courses on multivariate analysis, text analysis, and machine learning to graduate students.  
+
 ---
 title: "Penn State University, Department of Political Science"
 collection: teaching
