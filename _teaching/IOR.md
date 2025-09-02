@@ -6,9 +6,9 @@ permalink: /teaching/2014-spring-teaching-1
 
 Instructor of Record
 ======
-* *Math for Political Scientists Workshop.* Summer 2025. Penn State, University Park.
+* *Math for Political Scientists Workshop.* Summer 2025. University Park.
   *  This course is designed to cover some of the foundational mathematical skills necessary for graduate coursework and research in political science. The goal is to help ease first year Ph.D. students into the rhythm of the graduate program, while also introducing them to cohort, encourage collaborative work, and equip them with the resources to know where to turn when they need methods help. Topics include sets, algebra, functions, graphs, differentiation, integration, and linear algebra.
-  *  [Syllabus] (https://www.dropbox.com/scl/fi/rtz4ric002i7buetmgg5z/mathCamp_syllabus_2025.pdf?rlkey=t8h44jez4oopos05gt8mjp2q7&st=e7ec95nz&dl=0)
+  *  [Syllabus](https://www.dropbox.com/scl/fi/rtz4ric002i7buetmgg5z/mathCamp_syllabus_2025.pdf?rlkey=t8h44jez4oopos05gt8mjp2q7&st=e7ec95nz&dl=0)
 
 * *PLSC471: American Constitutional Law.* Summer 2024. World Campus.  
 
